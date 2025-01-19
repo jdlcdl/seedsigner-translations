@@ -8,8 +8,7 @@
 # Jean Do, 2025
 # Jp Prudhomme <jpprudhomme@gmail.com>, 2025
 # Jean Do, 2024
-# Jp Prudhomme, 2024
-# Jean Do, 2024
+# Jp Prudhomme, 2025
 # 
 #, fuzzy
 msgid ""
@@ -932,7 +931,8 @@ msgid ""
 "PSBT's {} address could not be verified with your multisig wallet "
 "descriptor."
 msgstr ""
-"L'adresse PSBT {} n'a pas pu être vérifiée avec le descripteur du portefeuille."
+"L'adresse PSBT {} n'a pas pu être vérifiée avec le descripteur multisig de"
+" votre portefeuille."
 
 #: src/seedsigner/views/psbt_views.py
 msgid "Suspicious PSBT"
