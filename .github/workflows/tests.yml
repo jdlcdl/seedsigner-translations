@@ -25,7 +25,7 @@ jobs:
       - name: Checkout main repo 'dev'
         uses: actions/checkout@v4
         with:
-          repository: 'SeedSigner/seedsigner'
+          repository: 'jdlcdl/seedsigner'
           ref: dev
           submodules: true
       - name: Set up Python 3.10
