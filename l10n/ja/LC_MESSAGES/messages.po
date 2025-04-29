@@ -247,7 +247,7 @@ msgstr ""
 
 #: src/seedsigner/gui/screens/screen.py
 msgid "Powering Off"
-msgstr "シャットダウン中"
+msgstr "ｼｬｯﾄﾀﾞｳﾝ中"
 
 #: src/seedsigner/gui/screens/screen.py
 msgid "Please wait about 30 seconds before disconnecting power."
@@ -505,9 +505,9 @@ msgid ""
 "\n"
 "Donate onchain or LN at:"
 msgstr ""
-"シードサイナーは100%%フリーソフトウェア・オープンソースソフトウェアであり、ビットコイン・コミュニティからの資金によってのみ成り立っているプロジェクトです。\n"
+"ｼｰﾄﾞｻｲﾅｰは100%%ﾌﾘｰｿﾌﾄｳｪｱ･ｵｰﾌﾟﾝｿｰｽｿﾌﾄｳｪｱであり、ﾋﾞｯﾄｺｲﾝ･ｺﾐｭﾆﾃｨからの資金によってのみ成り立っているﾌﾟﾛｼﾞｪｸﾄです。\n"
 "\n"
-"ビットコイン（ブロックチェーン若しくはライトニング）で寄付をするには、こちらをご使用ください。"
+"ﾋﾞｯﾄｺｲﾝ（ｵﾝﾁｪｰﾝ若しくはﾗｲﾄﾆﾝｸﾞ）で寄付をするには、こちらをご使用ください。"
 
 #: src/seedsigner/gui/screens/settings_screens.py
 #: src/seedsigner/views/settings_views.py
@@ -1126,7 +1126,7 @@ msgstr "シードQRとしてエクスポート"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Xpub can be used to view all future transactions."
-msgstr "xpubを知ってれば、今後の全ての取り引きを監視できる！"
+msgstr "第三者が自分のxpubを知った場合、自分の取り引きが見られてしまう！"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Generating xpub..."
@@ -1334,7 +1334,7 @@ msgstr "12・24ワード目を算出"
 
 #: src/seedsigner/views/tools_views.py src/seedsigner/views/view.py
 msgid "Tools"
-msgstr "シードを使う"
+msgstr "ｼｰﾄﾞを使う"
 
 #: src/seedsigner/views/tools_views.py
 msgid "12 words"
@@ -1432,7 +1432,7 @@ msgstr "読み取る"
 
 #: src/seedsigner/views/view.py
 msgid "Seeds"
-msgstr "シードを作る"
+msgstr "ｼｰﾄﾞを作る"
 
 #: src/seedsigner/views/view.py
 msgid "Restart"
@@ -1440,11 +1440,11 @@ msgstr "再起動"
 
 #: src/seedsigner/views/view.py
 msgid "Power Off"
-msgstr "シャットダウン"
+msgstr "ｼｬｯﾄﾀﾞｳﾝ"
 
 #: src/seedsigner/views/view.py
 msgid "Reset / Power"
-msgstr "再起動・シャットダウン"
+msgstr "再起動・ｼｬｯﾄﾀﾞｳﾝ"
 
 #: src/seedsigner/views/view.py
 msgid "This is still on our to-do list!"
