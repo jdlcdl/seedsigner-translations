@@ -6,8 +6,8 @@
 # Translators:
 # Okami ., 2022
 # YOUNGHUN KIM, 2024
-# Nextmoney, 2025
 # SPECTER Bitcoin, 2025
+# Nextmoney, 2025
 # 
 #, fuzzy
 msgid ""
@@ -16,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-01-28 13:28-0600\n"
 "PO-Revision-Date: 2022-04-29 13:50+0000\n"
-"Last-Translator: SPECTER Bitcoin, 2025\n"
+"Last-Translator: Nextmoney, 2025\n"
 "Language-Team: Korean (https://app.transifex.com/seedsigner/teams/135832/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1016,7 +1016,7 @@ msgstr "시드를 로드하다"
 
 #: src/seedsigner/views/seed_views.py
 msgid "In-Memory Seeds"
-msgstr "인메모리 시드들"
+msgstr "인메모리 시드"
 
 #: src/seedsigner/views/seed_views.py
 msgid "Load the seed to verify"
@@ -1334,7 +1334,7 @@ msgstr "12번째/24번째 단어 계산"
 
 #: src/seedsigner/views/tools_views.py src/seedsigner/views/view.py
 msgid "Tools"
-msgstr "도구들"
+msgstr "도구"
 
 #: src/seedsigner/views/tools_views.py
 msgid "12 words"
@@ -1432,7 +1432,7 @@ msgstr "스캔"
 
 #: src/seedsigner/views/view.py
 msgid "Seeds"
-msgstr "시드들"
+msgstr "시드"
 
 #: src/seedsigner/views/view.py
 msgid "Restart"

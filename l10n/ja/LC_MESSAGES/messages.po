@@ -1334,7 +1334,7 @@ msgstr "12・24ワード目を算出"
 
 #: src/seedsigner/views/tools_views.py src/seedsigner/views/view.py
 msgid "Tools"
-msgstr "ｼｰﾄﾞを使う"
+msgstr "ツール"
 
 #: src/seedsigner/views/tools_views.py
 msgid "12 words"
@@ -1432,7 +1432,7 @@ msgstr "読み取る"
 
 #: src/seedsigner/views/view.py
 msgid "Seeds"
-msgstr "ｼｰﾄﾞを作る"
+msgstr "シード箱"
 
 #: src/seedsigner/views/view.py
 msgid "Restart"
